@@ -1,19 +1,27 @@
-👋 Hi, I’m John-Daniel Ikechukwu — a passionate and purpose-driven Software Engineer.
+👋 Hi, I’m John-Daniel Ikechukwu — a **Software Engineer & Aspiring Technical Project Manager** passionate about bridging tech and business goals.
 
-🔭 **Currently working on a DeFi**: Building a scalable REST API with Spring Boot and Flutter for a decentralized dynamically-driven FinTech project.  
-🌱 **Learning**: Advanced system design and cloud architecture (AWS/GCP).  
-💡 **Interests**: Scalable backends, clean code, and tech that bridges gaps in emerging markets.  
+🔭 **Currently leading development** on a DeFi project:  
+   - Building a **scalable REST API** (Spring Boot) + Flutter frontend.  
+   - **Project Management**: Agile workflows, risk mitigation, and stakeholder alignment.  
+
+🌱 **Deepening expertise**:  
+   - **System Design/Cloud** (AWS/GCP) + **Blockchain** (Sui/Move).  
+   - **Technical PM**: SDLC, Scrum, and resource optimization.  
+
+💡 **Interests**:  
+   - Architecting **scalable backends** for African/emerging markets.  
+   - **Clean code** that accelerates team collaboration.  
 
 🎓 **Education**:  
-- **Semicolon Africa**: Intensive training in Java, Python, JavaScript, GoLang, SpringBoot, React, and software engineering principles.  
-- **Henley Business School**: Diploma in Business Administration & Entrepreneurship (Design Thinking, Lean Startup).  
+   - **Semicolon Africa**: Java/Python/Go, Spring Boot, React, Industrial Design and **Critical Thinking**.  
+   - **Henley Business School**: Business Admininstration & Entrepreneurship (**Lean Startup**).  
 
-👯 **Looking to collaborate on**: Open-source projects, hackathons, or early-stage startups solving real-world problems.  
-🤔 **Seeking help with**: Best practices for distributed systems.  
-💬 **Ask me about**: Techpreneurship, transitioning from non-tech to tech, or why Go is my favorite language!  
+👯 **Collaborate with me on**:  
+   - Open-source, hackathons, or startups **with technical PM needs**.  
+🤔 **Seeking help**: Distributed systems **or PM tools** (Jira, ClickUp).  
 
-🚀 **Open to**: Internships | Software Engineering Roles | Impact-driven projects.  
+🚀 **Open to**: Software Engineering Roles | **Tech PM Internships** | Impact projects.  
 
 📫 **Reach me**:  
 [LinkedIn](https://www.linkedin.com/in/john-daniel-ikechukwu-936ba9145) | johdanike@gmail.com  
-⚡ **Fun fact**: I once taught myself JavaScript by automating my dad’s small business inventory!  
+⚡ **Fun fact**: Automated my dad’s biz inventory with JavaScript!  
