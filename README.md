@@ -5,8 +5,8 @@
 💡 **Interests**: Scalable backends, clean code, and tech that bridges gaps in emerging markets.  
 
 🎓 **Education**:  
-- **Semicolon Africa**: Intensive training in Java, Python, JavaScript, React, and software engineering principles.  
-- **Henley Business School**: Diploma in Entrepreneurship (Design Thinking, Lean Startup).  
+- **Semicolon Africa**: Intensive training in Java, Python, JavaScript, GoLang, SpringBoot, React, and software engineering principles.  
+- **Henley Business School**: Diploma in Business Administration & Entrepreneurship (Design Thinking, Lean Startup).  
 
 👯 **Looking to collaborate on**: Open-source projects, hackathons, or early-stage startups solving real-world problems.  
 🤔 **Seeking help with**: Best practices for distributed systems.  
