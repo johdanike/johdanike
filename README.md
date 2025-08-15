@@ -18,10 +18,8 @@
 
 👯 **Collaborate with me on**:  
    - Open-source, hackathons, or startups **with technical PM needs**.  
-🤔 **Seeking help**: Distributed systems **or PM tools** (Jira, ClickUp).  
 
-🚀 **Open to**: Software Engineering Roles | **Tech PM Internships** | Impact projects.  
+🚀 **Open to**: Software Engineering Roles | System Design & Architecture | **Tech PM Internships** | Impact projects.  
 
 📫 **Reach me**:  
 [LinkedIn](https://www.linkedin.com/in/john-daniel-ikechukwu-936ba9145) | johdanike@gmail.com  
-⚡ **Fun fact**: Automated my dad’s biz inventory with JavaScript!  
