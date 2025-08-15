@@ -1,4 +1,4 @@
-👋 Hi, I’m John-Daniel Ikechukwu — a **Software Engineer & Aspiring Technical Project Manager** passionate about bridging tech and business goals.
+👋 Hi, I’m John-Daniel Ikechukwu — a **Software Engineer** passionate about bridging tech and business goals.
 
 🔭 **Currently leading development** on a DeFi project:  
    - Building a **scalable REST API** (Spring Boot) + Flutter frontend.  
